@@ -49,6 +49,7 @@
 		642570AF251677B1005B6F54 /* FlixUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = FlixUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		642570B3251677B1005B6F54 /* FlixUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FlixUITests.swift; sourceTree = "<group>"; };
 		642570B5251677B1005B6F54 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		642C7CFE251D0CF9005D3595 /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -79,6 +80,7 @@
 		64257085251677AA005B6F54 = {
 			isa = PBXGroup;
 			children = (
+				642C7CFE251D0CF9005D3595 /* README.md */,
 				64257090251677AA005B6F54 /* Flix */,
 				642570A7251677B1005B6F54 /* FlixTests */,
 				642570B2251677B1005B6F54 /* FlixUITests */,
