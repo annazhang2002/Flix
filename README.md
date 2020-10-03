@@ -15,7 +15,7 @@ Flix is an app that allows users to browse movies from the [The Movie Database A
 - [ ] (2pts) In the detail view, when the user taps the poster, a new screen is presented modally where they can view the trailer.
 
 ### App Walkthrough GIF
-![Walkthrough Part 2](flix2.gif)
+![Walkthrough Part 2](Flix/flix2.gif)
 
 ### Notes
 I was running into some trouble when configuring the collection view cells because the images were tiny. However, with some help from the slack channel, I was able to figure out that it was because of the estimate size component of the collection view
